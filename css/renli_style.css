@@ -1,0 +1,301 @@
+@charset "utf-8";
+.lan{
+	height: 5px;
+	width: 100%;
+	background-color: #09238B;
+}
+.nav img{
+	float: left;
+}
+.nav{
+	position: relative;
+	height: 60px;
+}
+.nav p{
+	width: 137px;
+	height: 22px;
+	color: #8491C5;
+	background-color: #09238B;
+	line-height: 22px;
+	position: absolute;
+	top:-13px;right: 1px;
+	border-radius: 0px 0px 4px 4px;
+}
+.nav .z{
+	margin-left: 22px;
+}
+.nav .l{
+	font-size: 12px;
+	font-family: '微软雅黑';
+	margin-left: 15px;
+	margin-right: 15px;
+}
+.nav p a{
+	font-size: 12px;
+	font-family: '微软雅黑';
+	color: #FFFFFF;
+}
+.nav ul{
+	float: right;
+	margin-top: 43px;
+	margin-right: 10px;
+}
+.nav li{
+	display: inline-block;
+	font-size: 14px;
+	font-family: '微软雅黑';
+	margin-left: 25px;
+}
+.nav li a{
+	color: #333333;
+}
+.nav .active{
+	color: #09238B;
+}
+.huixian{
+	border-top: 1px solid #CCCCCC;
+	margin-top: 11px;
+	margin-bottom: 13px;
+}
+.ceng{
+	height: 17px;
+	
+}
+.ceng a{
+	line-height: 17px;
+	font-size: 12px;
+	font-family: '微软雅黑';
+	color: #272727;
+}
+.neirong{
+	height: 930px;
+	background-image: linear-gradient(#F0F0EE,#FFFFFF);
+	position: relative;
+}
+.lianxiwomen{
+	float: left;
+}
+.lianxiwomen ul{
+	padding-top: 36px;
+}
+.lianxiwomen li .p{
+	font-size: 24px;
+	font-family: '微软雅黑';
+	color: #0F298D;
+}
+.lianxiwomen .box{
+	width: 200px;
+	height: 39px;
+	line-height: 39px;
+	border-bottom: 1px solid #DDDDDD;
+}
+.lianxiwomen .box a{
+	color: #2D2D2D;
+}
+.lianxiwomen .shang{
+	border-top: 1px solid #DDDDDD;
+}
+
+.lianxifangshi{
+	float: left;
+	margin-top: 40px;
+	margin-left: 30px;
+}
+.lianxifangshi .p1{
+	font-size: 20px;
+	font-family: '宋体';
+	font-weight: bold;
+	width: 768px;
+	height: 26px;
+	border-bottom: 1px solid #DDDDDD;
+}
+.lianxi_banner1{
+	margin-top: 18px;
+}
+#neirong{
+	margin-top: 7px;
+}
+#neirong .p0{
+	height: 197px;
+	width: 501px;
+	font-size: 12px;
+	font-family: '微软雅黑';
+	margin-top: 23px;
+	line-height: 24px;
+}
+#neirong .p0 em{
+	text-indent: 21em;
+}
+#neirong .u1{
+	float: left;
+	padding-top: 25px;
+}
+#neirong .img0{
+	float: left;
+}
+#neirong .p2{
+	float: left;
+}
+#neirong .h{
+	font-size: 14px;
+	font-family: '微软雅黑';
+	font-weight: bold;
+}
+
+.lianxi_banner2{
+	padding-top: 11px;
+}
+	
+.lanse0{
+	height: 4px;
+	width: 100%;
+	background-color: #112161;
+}
+.dibu{
+	height: 292px;
+	width: 100%;
+	background-color: #5F5F5F;
+}
+.dibu .u0{
+	width: 999px;
+	padding-top: 17px;
+	border-bottom: 1px solid #888888;
+	height: 42px;
+}
+.dibu .u0 li{
+	display: inline-block;
+}
+.u0 a{
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: '微软雅黑';
+}
+.jin{
+	margin-left: 96px;
+}
+.jin0{
+	 margin-left: 96px;
+}
+.jin1{
+	margin-left: 48px;
+}
+.yuan{
+	margin-left: 189px;
+}
+.zuo ul{
+	display: inline-block;
+	margin-top: 20px;
+}
+.zuo ul a{
+	font-size: 12px;
+	color: #A3A3A3;
+}
+.weibo{
+	float: left;
+	margin-right: 25px;
+}
+.guanwang{
+	float: left;
+}
+.zuo{
+	float: left;
+}
+.you{
+	float: left;
+	margin-left: 164px;
+	margin-top: 20px;
+}
+.you p{
+	font-size: 12px;
+	font-family: '微软雅黑';
+	margin-left: 17px;
+	margin-top: 7px;
+	color: #CCCCCC;
+}
+.zuixiamian{
+	border-top: 1px solid bl;
+}
+.zuixiamian p{
+	font-size: 12px;
+	margin-top: 161px;
+	font-family: '微软雅黑';
+	color: #CBCBCB;
+}
+.zuixiamian p span{
+	margin-left: 16px;
+}
+.zuixiamian p em{
+	margin-left: 301px;
+}
+.zuixiamian em span{
+	padding-left: 0px;
+	padding-right: 9px;
+}
+.zuixiamian p{
+	border-top: 1px solid darkblue;
+	padding-top: 26px;
+}
+.p0{
+	float: left;
+}
+.imgo{
+	float: left;
+	margin-top: 45px;
+	margin-left: 23px;
+}
+.xian{
+	width: 100%;
+	height: 1px;
+	background-color:#D5D5D5;
+	margin-top: 275px;
+}
+.zw{
+	padding-top: 20px;
+}
+.zw .pp{
+	height: 39px;
+	line-height: 39px;
+	width: 142px;
+	text-align: center;
+	background-color: #10298E;
+	font-size: 16px;
+	font-family: ;微软雅黑;
+	color: #FFFFFF;
+}
+.xian0{
+	width: 100%;
+	height: 1px;
+	background-color: #10298E;
+}
+.float ul{
+	margin-top: 10px;
+}
+.float li a{
+	font-size: 12px;
+	line-height: 32px;
+	font-family: '微软雅黑';
+	color: #272727;
+}
+.float a em{
+	padding-left: 585px;
+}
+.xuanye{
+	margin-top:10px;
+	height: 100%;
+	border-top: 1px dashed #CCCCCC;
+}
+.xuanye p{
+	padding-top: 21px;
+	font-size: 12px;
+	font-family: '微软雅黑';
+}
+.xuanye a{
+	color: #000000;
+}
+.xuanye span{
+	margin-left: 4px;
+}
+#em{
+	margin-left: 500px;
+}
+
